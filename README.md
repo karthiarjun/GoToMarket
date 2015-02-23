@@ -1,2 +1,2 @@
 # GoToMarket
-Capgemini Go To Market Repository
+Go To Market Repository
